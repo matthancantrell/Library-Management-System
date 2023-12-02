@@ -1,0 +1,15 @@
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/Debug/net6.0/Author and Book Management System.csproj.AssemblyReference.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/Debug/net6.0/Author and Book Management System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/Debug/net6.0/Author and Book Management System.AssemblyInfoInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/Debug/net6.0/Author and Book Management System.AssemblyInfo.cs
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/Debug/net6.0/Author and Book Management System.csproj.CoreCompileInputs.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/bin/Debug/net6.0/Author and Book Management System
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/bin/Debug/net6.0/Author and Book Management System.deps.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/bin/Debug/net6.0/Author and Book Management System.runtimeconfig.json
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/bin/Debug/net6.0/Author and Book Management System.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/bin/Debug/net6.0/Author and Book Management System.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/Debug/net6.0/Author and Book Management System.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/Debug/net6.0/refint/Author and Book Management System.dll
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/Debug/net6.0/Author and Book Management System.pdb
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/Debug/net6.0/Author and Book Management System.genruntimeconfig.cache
+/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/Debug/net6.0/ref/Author and Book Management System.dll
