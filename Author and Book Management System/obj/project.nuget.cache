@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "Bl4DouLMqqdUI+Rwt6JZ8FoZ2iyUhwyW12uz+iK5HciQ3q9wd+L1K17uR4+IYGIL7waQYKC33qWaCiy+tVHkqA==",
-  "success": true,
-  "projectFilePath": "/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/Author and Book Management System.csproj",
+  "dgSpecHash": "xybmhcCDaH+2OO9ELod4q9Dw7SUQKX5lYDfxPeTIf+EF0sF2rxqBXnZAJ1MtaCG2B0gNKrvk1BCYQENClAsrAw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Kia\\Desktop\\School\\Winter 2024\\Sprint 1\\Software Projects in Exsting Code\\LibraryManagement\\Author and Book Management System\\Author and Book Management System.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project LibraryManagement is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project LibraryManagement supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "LibraryManagement",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

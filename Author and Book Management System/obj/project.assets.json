@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "LibraryManagement/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/LibraryManagement.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryManagement.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LibraryManagement/1.0.0": {
+      "type": "project",
+      "path": "../../../../../../../source/repos/Author-and-Book-Management-System/LibraryManagement/LibraryManagement.csproj",
+      "msbuildProject": "../../../../../../../source/repos/Author-and-Book-Management-System/LibraryManagement/LibraryManagement.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "LibraryManagement >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Kia\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kia\\source\\repos\\Author-and-Book-Management-System\\LibraryManagement\\LibraryManagement.csproj": {
+              "projectPath": "C:\\Users\\Kia\\source\\repos\\Author-and-Book-Management-System\\LibraryManagement\\LibraryManagement.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -70,5 +93,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project LibraryManagement is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project LibraryManagement supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "LibraryManagement",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
