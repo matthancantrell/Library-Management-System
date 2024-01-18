@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/Author and Book Management System.csproj": {}
+    "C:\\Users\\Kia\\Desktop\\School\\Winter 2024\\Sprint 1\\Software Projects in Exsting Code\\LibraryManagement\\Author and Book Management System\\Author and Book Management System.csproj": {}
   },
   "projects": {
-    "/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/Author and Book Management System.csproj": {
+    "C:\\Users\\Kia\\Desktop\\School\\Winter 2024\\Sprint 1\\Software Projects in Exsting Code\\LibraryManagement\\Author and Book Management System\\Author and Book Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/Author and Book Management System.csproj",
+        "projectUniqueName": "C:\\Users\\Kia\\Desktop\\School\\Winter 2024\\Sprint 1\\Software Projects in Exsting Code\\LibraryManagement\\Author and Book Management System\\Author and Book Management System.csproj",
         "projectName": "Author and Book Management System",
-        "projectPath": "/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/Author and Book Management System.csproj",
-        "packagesPath": "/Users/sabrinal-saidi/.nuget/packages/",
-        "outputPath": "/Users/sabrinal-saidi/Desktop/Makeen Full Stack  /Author and Book Management System/Author and Book Management System/obj/",
+        "projectPath": "C:\\Users\\Kia\\Desktop\\School\\Winter 2024\\Sprint 1\\Software Projects in Exsting Code\\LibraryManagement\\Author and Book Management System\\Author and Book Management System.csproj",
+        "packagesPath": "C:\\Users\\Kia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kia\\Desktop\\School\\Winter 2024\\Sprint 1\\Software Projects in Exsting Code\\LibraryManagement\\Author and Book Management System\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/sabrinal-saidi/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Kia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
